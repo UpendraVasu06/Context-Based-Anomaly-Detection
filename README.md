@@ -302,7 +302,7 @@ This project is based on the research work:
 
 # 👨‍💻 Author
 
-### Guda Jeshwanth Reddy
+### Dara Upendra vasu
 
 Department of Information Technology
 
